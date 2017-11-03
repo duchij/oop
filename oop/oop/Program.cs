@@ -10,8 +10,10 @@ namespace oop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Wordl");
+            Console.WriteLine("Hello Wordl on GitHUb");
             Console.ReadKey();
+            
+            
         }
     }
 }
